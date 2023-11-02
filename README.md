@@ -9,3 +9,13 @@ Command : git push origin main
 
 Created new branch with name (new_branch)
 Command : git checkout -b new_branch
+
+
+Stash Changes
+
+Command : Git stash
+
+
+Apply Changes after Stash
+
+Command : git apply <filename>
